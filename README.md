@@ -7,6 +7,8 @@
 - 日本語版（Leanpub）: <https://leanpub.com/agent-security-ja>
 - 英語版（Leanpub）: <https://leanpub.com/agent-security>
 
+**まず現在地を知りたい方へ。** 無料の[AIエージェントセキュリティ・セルフアセスメントチェックリスト](https://github.com/AOI-Future/ai-agent-security-checklist)から始めるとよい。20問の Yes/No 質問がそれぞれ TH-\*/REQ-\* 識別子と本書の対応章にマッピングされている（[印刷用PDF・日英](https://0xshugo.gumroad.com/l/agent-security-checklist)）。
+
 ## 本書の規律
 
 本書全体は、上から下まで貫く一本のチェーンを軸に構成されている。
