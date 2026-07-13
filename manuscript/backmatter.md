@@ -13,4 +13,4 @@
 このキットが存在するのは、「我々はエージェントをテストした」という言葉が証跡なしには何の価値もなく、その証跡を手作業で作ることこそが退屈な部分だからである。
 
 **フルの検証スイートを実行し、証跡パッケージを生成する：**
-<https://0xshugo.gumroad.com/l/AI-Agent>
+<https://0xshugo.gumroad.com/l/AI-Agent?utm_source=leanpub_ja&utm_medium=book&utm_campaign=agent_security_funnel&utm_content=ja_backmatter>
